@@ -13,6 +13,8 @@ Countdown.app/Contents/MacOS/Countdown -t 1359 -m "Dev Days+begins in+%s"
 
 You must enter a space between the parameter key and the parameter value.
 
+Command-Q to exit.
+
 License
 -------
 Copyright (c) 2009, Michael Parlee
